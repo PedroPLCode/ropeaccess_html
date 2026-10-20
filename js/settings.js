@@ -59,10 +59,10 @@ export const settings = {
     translate1: 'scale(1)',
   },
   pictures: {
-    about: ['../../images/about/about1.jpg',
-            '../../images/about/about2.jpg',
-            '../../images/about/about3.jpg',
-            '../../images/about/about4.jpg',
+    about: ['./images/about/about1.jpg',
+            './images/about/about2.jpg',
+            './images/about/about3.jpg',
+            './images/about/about4.jpg',
     ],
   },
   variables: {

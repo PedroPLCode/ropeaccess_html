@@ -53,7 +53,7 @@
 .u-b4 {
   font-family: Arial;
   font-size: 12px;
-  line-height: 17px;
+  line-height: 17px !important;
   letter-spacing: 0.3px;
   font-weight: normal;
   color: #fff;

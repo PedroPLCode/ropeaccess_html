@@ -65,7 +65,7 @@
   width: 100%;
   font-family: Arial;
   font-size: 12px;
-  line-height: 17px;
+  line-height: 17px o !important;
   letter-spacing: 0.3px;
   font-weight: normal;
   color: $color-four;
@@ -73,12 +73,12 @@
 
   @media (max-width: $media-border) {
       font-size: 16px;
-      line-height: 12px;
+      line-height: 12px !important;
   }
 
   @media (min-width: $media-border-large) {
     font-size: 26px;
-    line-height: calc($base-size * 4);
+    line-height: calc($base-size * 4) !important;;
   }
 }
 
